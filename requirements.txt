@@ -3,4 +3,4 @@ uvicorn
 pymongo
 motor
 pydantic
-dotenv
+python-dotenv
